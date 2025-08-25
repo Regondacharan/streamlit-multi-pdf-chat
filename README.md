@@ -14,8 +14,7 @@ This is a Streamlit application that allows users to upload multiple PDF files a
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/your-repo.git
-    cd your-repo
+    git clone https://github.com/Regondacharan/streamlit-multi-pdf-chat
     ```
 
 2. (Optional) Create and activate a virtual environment:
